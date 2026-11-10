@@ -1,0 +1,70 @@
+{
+  "checked_at_utc": "2026-11-10T10:36:16.215787+00:00",
+  "sources": [
+    {
+      "source_name": "Comune di Cagliari – Contributi e coprogettazione",
+      "status": "PARZIALE",
+      "message": "Archivio comunale doc_09_05: lette le prime 35 schede recenti.",
+      "items_seen": 41,
+      "last_checked_at": "2026-11-10T10:34:28+00:00"
+    },
+    {
+      "source_name": "Con i Bambini",
+      "status": "OK",
+      "message": "",
+      "items_seen": 33,
+      "last_checked_at": "2026-11-10T10:33:33+00:00"
+    },
+    {
+      "source_name": "Enel Cuore",
+      "status": "OK",
+      "message": "",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:33:37+00:00"
+    },
+    {
+      "source_name": "Fondazione Charlemagne",
+      "status": "OK",
+      "message": "",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:33:49+00:00"
+    },
+    {
+      "source_name": "Fondazione Mazzola",
+      "status": "OK",
+      "message": "",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:34:36+00:00"
+    },
+    {
+      "source_name": "Fondazione Prosolidar",
+      "status": "PARZIALE",
+      "message": "Finestra di candidatura senza scadenza completa verificabile: controllare anno, apertura e chiusura sulla pagina ufficiale.",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:33:34+00:00"
+    },
+    {
+      "source_name": "Intesa Sanpaolo – Fondo di Beneficenza",
+      "status": "OK",
+      "message": "",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:33:42+00:00"
+    },
+    {
+      "source_name": "Otto per Mille Valdese",
+      "status": "OK",
+      "message": "",
+      "items_seen": 1,
+      "last_checked_at": "2026-11-10T10:33:33+00:00"
+    },
+    {
+      "source_name": "Regione Sardegna – Bandi",
+      "status": "PARZIALE",
+      "message": "Archivio regionale limitato alle prime 90 schede recenti.",
+      "items_seen": 26,
+      "last_checked_at": "2026-11-10T10:34:03+00:00"
+    }
+  ],
+  "records_observed": 106,
+  "note": "Record osservati, inclusi storico e richieste dirette: non è il numero di bandi aperti o ammissibili."
+}

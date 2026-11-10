@@ -4,7 +4,7 @@ Dashboard per raccogliere opportunità di finanziamento pertinenti a Domus de Lu
 con ricerca, filtri, deduplicazione, valutazione tematica e valutazione separata
 dell'ammissibilità. Usa fonti pubbliche; non invia candidature.
 
-## Fonti attive: 17
+## Fonti attive correnti: 17
 
 - Territorio: Regione Sardegna, Comune di Cagliari, Fondazione di Sardegna.
 - Infanzia e sociale: Con i Bambini, Fondazione CON IL SUD, Otto per Mille Valdese,
@@ -13,11 +13,6 @@ dell'ammissibilità. Usa fonti pubbliche; non invia candidature.
 - Europa: EU Funding & Tenders.
 - Richieste dirette: Fondazione Prosolidar, Enel Cuore, Fondo di Beneficenza
   Intesa Sanpaolo, Fondazione Charlemagne e Fondazione Mazzola.
-
-CSV Lazio, Integrazione Migranti, AICS, Compagnia di San Paolo e Open Society
-Foundations sono rimossi dall'elenco attivo. Le schede provenienti solo da fonti
-rimosse non compaiono nella dashboard o nelle esportazioni; lo storico resta nel
-database. European Youth Foundation resta esclusa anche attraverso gli aggregatori.
 
 Metodi, link ufficiali e limiti: [FONTI_DOMUS.md](FONTI_DOMUS.md).
 
